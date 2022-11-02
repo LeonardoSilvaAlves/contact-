@@ -1,3 +1,13 @@
+## Como fiz o projeto
+
+Neste projeto utilizei react para criar um sistema de controle de contatos a principio com API de database
+Porém deu errado meu planejamento conseguindo apenas o design mandado pela empresa, meu server JSON não estava funcionando de jeito algum porém eu tentei ao máximo consegui pelo menos levar os dados no console do "new.js"
+
+## Bibliotecas Utilizadas
+react-icons
+Axios
+react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
