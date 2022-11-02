@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 150px;
+    display: flex;
+    background: #121214;
+    color: #E1E1E6;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    background: #202024;
+}
+
+.card-body-post{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 280px;
+}
+
+ .card-body-post form{
+    display: flex;
+    flex-direction: column;
+    background: #1212145a;
+    text-align: center;
+    margin-top: 10px;
+    width: 600px;
+    height: 446px;
+    justify-content: center;
+    align-items: center;
+    
+}
+label {
+    color: white;  
+}
+
+.card-body-post input{
+    width: 500px;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;    
+    background: #121214;
+    color: #7C7C8A;
+    font-size: 16px;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    
+}
+
+.card-post h1 {
+    color: white;
+    text-align: center;
+    font-size: 54px;
+    font-weight: 700;
+
+}
+
+.btn-post button {
+    background: #00875F;
+    color: white;
+    border: none;
+    float: none;
+    margin-top: 15px;
+    margin-left: 150px;
+    justify-content: center;
+    align-items: center;
+    width: 439px;
+}
+
+p{
+    text-align: center;
+    color: red;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+link{
+    color: red ;
+    font-size: 50px;
+}

@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    height: 150px;
+    display: flex;
+    background: #121214;
+    color: #E1E1E6;
+    align-items: center;
+}
+
+button {
+    padding: 20px;
+    background: #00875F;
+    color: white;
+    font-size: 16px;
+    margin-left: 780px;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.Vector{
+    margin-left: 145px;
+}
+
+
+header h1 {
+    margin-left: 22px;
+}
+main{
+    background: #202024;
+    height: 1200px;
+
+}
+.input-one{
+    width: 920px;
+    padding: 16px;
+    border: none;
+    border-radius: 6px;    
+    background: #121214;
+    color: #7C7C8A;
+    font-size: 16px;
+    margin-left: 160px;
+    margin-top: 60px;
+    
+}
+
+main button {
+    background: none;
+    border: 2px solid #00B37E;
+    color: #00B37E;
+    font-weight: 700;
+    font-size: 16px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -55px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+} 
+
+.table {
+    width: 1400px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+
+table {
+    border: none;
+    color: #C4C4CC;
+}
+
+td {
+    width: 1120px;
+    padding: 20px;
+    border-radius: 6px;
+    background: #29292E;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+
